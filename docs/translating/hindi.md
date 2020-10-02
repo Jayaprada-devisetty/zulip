@@ -42,6 +42,8 @@ Zulip friendly and usable.
 * Filter - **छानना**: as used with narrowing (see below).
 * Home - **मुख पृष्ठ**: we never use the term "घर" (literally home) in Hindi.
 * Emoji - **इमोजी**
+* Settings-**समायोजन**
+* Bookmark-**पृष्ठ स्मृति**
 
 ## Phrases (वाक्यांशों)
 * Subscribe/Unsubscribe to a stream - **एक धारा में सदस्यता लें/सदस्यता समाप्त करें**
